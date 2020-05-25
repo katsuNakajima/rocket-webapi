@@ -18,6 +18,20 @@ $ cargo run
 
 ## Usage
 
+* Hello, world!
+
 ```bash
 http://localhost:8000
+```
+
+* Get all ToDOs
+
+```bash
+http://localhost:8000/todos
+```
+
+* Get ToDo by ID
+
+```bash
+http://localhost:8000/todos/10
 ```
