@@ -1,6 +1,6 @@
 # rocket-webapi
 
-## usage
+## Setup
 
 ```bash
 $ curl https://sh.rustup.rs -sSf | /bin/bash -s -- -y --default-toolchain nightly
@@ -10,9 +10,13 @@ $ curl https://sh.rustup.rs -sSf | /bin/bash -s -- -y --default-toolchain nightl
 $ cd rocket-webapi
 ```
 
+## Running
+
 ```bash
 $ cargo run
 ```
+
+## Usage
 
 ```bash
 http://localhost:8000
